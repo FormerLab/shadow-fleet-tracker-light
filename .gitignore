@@ -1,0 +1,62 @@
+# ---------------------------------------------------------------------------
+# Runtime databases — generated at runtime, may contain session data
+# ---------------------------------------------------------------------------
+vessel_data_log.db
+vessel_data_log.db*
+vessel_static.db
+vessel_static.db*
+loitering_events.db
+loitering_events.db*
+transshipment.db
+transshipment.db*
+
+# SQLite WAL/SHM files
+*.db-shm
+*.db-wal
+
+# Vessels1.db IS tracked — it is the curated watchlist, not runtime data
+
+# ---------------------------------------------------------------------------
+# Generated outputs — produced by scripts, not source
+# ---------------------------------------------------------------------------
+vessel_tracking_map_latest.html
+gur_global_snapshot.html
+gur_global_snapshot.py
+
+# GUR scraper outputs — users run gur_scrape.py to generate these
+gur_mapping.json
+gur_vessels_full.json
+gur_watchlist_candidates.sql
+
+# ---------------------------------------------------------------------------
+# Logs
+# ---------------------------------------------------------------------------
+vessel_log.txt
+vessel_log.txt.bak
+*.log
+
+# ---------------------------------------------------------------------------
+# Python
+# ---------------------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# ---------------------------------------------------------------------------
+# Temp / editor / OS
+# ---------------------------------------------------------------------------
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+.xdp-*

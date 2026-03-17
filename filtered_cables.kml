@@ -1,0 +1,237 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>Atlantic Crossing-1 (AC-1)</name>
+      <coordinates>-72.91227,40.773562,0 -68.927516,40.831839,0 -57.23333899999999,43.278758,0 -5.24824,59.692024,0 -0.062631,59.417817,0 7.040641,55.007946,0 8.383327,54.898451,0</coordinates>
+    </Placemark>
+    <Placemark>
+      <name>Atlantic Crossing-1 (AC-1)</name>
+      <coordinates>-5.536335,49.861425,0 0.226202,50.176803,0 1.349046,50.76805499999999,0 3.674062,52.260454,0 4.656866,52.48646399999999,0 3.76837,52.85430000000001,0 3.954456,53.27720899999999,0 4.961207,53.634901,0 8.383327,54.898451,0</coordinates>
+    </Placemark>
+    <Placemark>
+      <name>Botnia</name>
+      <coordinates>21.616402,63.095351,0 20.968267,63.095351,0 20.587129,63.682479,0 20.263061,63.825978,0</coordinates>
+    </Placemark>
+    <Placemark>
+      <name>CANTAT-3</name>
+      <coordinates>7.155309,55.751652,0 8.32921,55.751652,0</coordinates>
+    </Placemark>
+    <Placemark>
+      <name>CANTAT-3</name>
+      <coordinates>4.39641,55.94162799999999,0 6.283323000000001,56.66275,0</coordinates>
+    </Placemark>
+    <Placemark>
+      <name>CANTAT-3</name>
+      <coordinates>4.228468,56.07853,0 4.39641,55.94162799999999,0 4.564351,55.804269,0 4.748538,55.71584899999999,0</coordinates>
+    </Placemark>
+    <Placemark>
+      <name>CANTAT-3</name>
+      <coordinates>8.383327,54.898451,0 7.789097,55.075641,0</coordinates>
+    </Placemark>
+    <Placemark>
+      <name>CANTAT-3</name>
+      <coordinates>7.789097,55.075641,0 7.155414,55.751503,0</coordinates>
+    </Placemark>
+    <Placemark>
+      <name>CANTAT-3</name>
+      <coordinates>7.155414,55.751503,0 6.283323000000001,56.66275,0 -2.098075,62.811225,0 -15.690927,62.388073,0 -19.982343,63.127002,0 -20.267273,63.43781300000001,0</coordinates>
+    </Placemark>
+    <Placemark>
+      <name>DANICE</name>
+      <coordinates>-20.666398,63.733222,0 -20.198388,63.029047,0 -5.765883,60.42096000000001,0 0.145818,61.881167,0 6.715412999999999,56.899943,0 8.32921,55.751652,0</coordinates>
+    </Placemark>
+    <Placemark>
+      <name>Denmark-Sweden 16</name>
+      <coordinates>12.273087,55.576103,0 12.457801,55.471317,0 12.963946,55.471317,0</coordinates>
+    </Placemark>
+    <Placemark>
+      <name>Denmark-Sweden 15</name>
+      <coordinates>12.592196,56.03062700000001,0 12.695788,56.043915,0</coordinates>
+    </Placemark>
+    <Placemark>
+      <name>Denmark-Sweden 17</name>
+      <coordinates>12.536919,56.075079,0 12.58861,56.134974,0</coordinates>
+    </Placemark>
+    <Placemark>
+      <name>Denmark-Sweden 18</name>
+      <coordinates>12.592196,56.03062700000001,0 12.695788,56.043915,0</coordinates>
+    </Placemark>
+    <Placemark>
+      <name>Denmark-Norway 5</name>
+      <coordinates>9.995647,57.456295,0 8.772482,58.46191600000001,0</coordinates>
+    </Placemark>
+    <Placemark>
+      <name>Denmark-Norway 6</name>
+      <coordinates>8.703597,56.95935099999999,0 7.996281000000001,58.151088,0</coordinates>
+    </Placemark>
+    <Placemark>
+      <name>Denmark-Poland 2</name>
+      <coordinates>14.966688,55.012765,0 16.062314,54.26013200000001,0</coordinates>
+    </Placemark>
+    <Placemark>
+      <name>Finland-Estonia 2 (EESF-2)</name>
+      <coordinates>24.752536,59.43636100000001,0 25.128189,59.788434,0 24.932503,60.171209,0</coordinates>
+    </Placemark>
+    <Placemark>
+      <name>Finland-Estonia 3 (EESF-3)</name>
+      <coordinates>24.276668,59.400985,0 24.579848,59.771627,0 24.932503,60.171209,0</coordinates>
+    </Placemark>
+    <Placemark>
+      <name>Germany-Denmark 2</name>
+      <coordinates>12.431428,54.24367,0 11.940053,54.577177,0</coordinates>
+    </Placemark>
+    <Placemark>
+      <name>Germany-Denmark 3</name>
+      <coordinates>11.940053,54.577177,0 12.149557,54.191614,0</coordinates>
+    </Placemark>
+    <Placemark>
+      <name>Germany-Netherlands</name>
+      <coordinates>7.20183,53.595635,0 5.317555,53.588982,0 4.156524,52.93462,0 4.29324,52.74080500000001,0 4.746217,52.634652,0</coordinates>
+    </Placemark>
+    <Placemark>
+      <name>Latvia-Sweden 1 (LV-SE 1)</name>
+      <coordinates>21.570092,57.389681,0 17.94659,58.622495,0 17.94659,58.903094,0</coordinates>
+    </Placemark>
+    <Placemark>
+      <name>NorSea Com</name>
+      <coordinates>1.729287,52.468847,0 2.33338,54.266709,0 3.395355,56.27826099999999,0 3.209902,56.549212,0 2.847331,57.111419,0 2.685086,58.922847,0 5.524528,59.279251,0</coordinates>
+    </Placemark>
+    <Placemark>
+      <name>SeaMeWe-3</name>
+      <coordinates>-9.102766,38.443076,0 -10.542398,38.552712,0 -10.58259,45.201353,0 -4.33854,47.81097700000001,0 -5.43211,48.8035,0 -5.172972,50.02250100000001,0 0.354374,49.974868,0 2.273989,51.51817799999999,0 4.021759,53.827095,0 7.20183,53.595635,0</coordinates>
+    </Placemark>
+    <Placemark>
+      <name>SHEFA-2</name>
+      <coordinates>-2.523678,57.666857,0 -2.900016,58.833349,0 -1.238537,59.99603400000001,0 -1.323668,60.004065,0 -6.771843,62.017616,0</coordinates>
+    </Placemark>
+    <Placemark>
+      <name>Svalbard Undersea Cable System</name>
+      <coordinates>15.557752,78.221924,0 13.898805,78.180746,0 12.926602,78.00799,0 16.167278,70.134293,0 16.512443,68.706881,0 16.545356,70.134293,0 13.358692,77.979894,0 14.087844,78.119728,0 15.557752,78.221924,0</coordinates>
+    </Placemark>
+    <Placemark>
+      <name>Sweden-Finland 6</name>
+      <coordinates>18.062735,59.332277,0 19.119331,59.562081,0 22.062944,59.90295600000001,0 22.298611,60.305721,0</coordinates>
+    </Placemark>
+    <Placemark>
+      <name>TAT-14</name>
+      <coordinates>-74.047087,40.123567,0 -69.293252,40.294829,0 -57.268573,43.935216,0 -0.016848,61.689665,0 6.499368,56.78153500000001,0 8.32921,55.751652,0 7.20183,53.595635,0 5.228943,53.662259,0 3.947494,52.939305,0 4.396621,52.205171,0 3.01543,52.044113,0 1.477744,50.784276,0 0.708453,49.860504,0 -2.385643,49.851502,0 -5.724530999999999,49.659181,0 -6.120174,49.955134,0 -4.544406,50.828225,0</coordinates>
+    </Placemark>
+    <Placemark>
+      <name>UK-Netherlands 14</name>
+      <coordinates>-0.601584,53.6564,0 0.269401,53.555264,0 3.537082,52.74900000000001,0 4.616463,52.616581,0</coordinates>
+    </Placemark>
+    <Placemark>
+      <name>Baltica</name>
+      <coordinates>11.940053,54.577177,0 14.992111,55.031099,0</coordinates>
+    </Placemark>
+    <Placemark>
+      <name>Baltica</name>
+      <coordinates>13.828337,55.431328,0 14.992111,55.031099,0 15.575053,54.17268000000001,0</coordinates>
+    </Placemark>
+    <Placemark>
+      <name>BCF-1</name>
+      <coordinates>21.570092,57.389681,0 19.0419,57.86301700000001,0 18.838936,59.338287,0 18.403681,59.338287,0 18.062735,59.332277,0</coordinates>
+    </Placemark>
+    <Placemark>
+      <name>BCS East-West Interlink</name>
+      <coordinates>21.082724,56.02853,0 18.829442,57.439689,0</coordinates>
+    </Placemark>
+    <Placemark>
+      <name>BCS East</name>
+      <coordinates>21.011202,56.508374,0 20.80887,56.35459300000001,0 21.082724,56.02853,0</coordinates>
+    </Placemark>
+    <Placemark>
+      <name>BCS North - Phase 2</name>
+      <coordinates>26.88366,60.501185,0 28.499989,59.800023,0</coordinates>
+    </Placemark>
+    <Placemark>
+      <name>BCS North - Phase 2</name>
+      <coordinates>26.88366,60.501185,0 26.0602,60.161957,0 24.932503,60.171209,0</coordinates>
+    </Placemark>
+    <Placemark>
+      <name>BCS North - Phase 1</name>
+      <coordinates>24.932503,60.171209,0 24.640083,59.978698,0 23.398879,59.823376,0 22.966789,59.823376,0 22.642721,59.877724,0 22.298611,60.03661700000001,0 22.298611,60.305721,0 22.082566,60.090615,0 20.549574,59.948628,0 19.937728,60.00607200000001,0 19.937728,60.114079,0 18.764671,59.822845,0</coordinates>
+    </Placemark>
+    <Placemark>
+      <name>Danica North</name>
+      <coordinates>12.955507,55.770537,0 12.545569,55.720791,0</coordinates>
+    </Placemark>
+    <Placemark>
+      <name>Elektra-GlobalConnect 1 (GC1)</name>
+      <coordinates>11.940053,54.577177,0 12.013896,54.34031000000001,0 12.132468,54.079212,0</coordinates>
+    </Placemark>
+    <Placemark>
+      <name>Finland Estonia Connection (FEC)</name>
+      <coordinates>24.932503,60.171209,0 24.711922,59.765348,0 24.752536,59.423731,0 24.986304,59.790906,0 24.932503,60.171209,0</coordinates>
+    </Placemark>
+    <Placemark>
+      <name>Fehmarn Bält</name>
+      <coordinates>11.212588,54.496143,0 11.358588,54.663094,0</coordinates>
+    </Placemark>
+    <Placemark>
+      <name>GlobalConnect 2 (GC2)</name>
+      <coordinates>10.516666,57.33102,0 10.887888,57.545766,0 11.644151,57.545766,0 12.076241,57.487639,0</coordinates>
+    </Placemark>
+    <Placemark>
+      <name>GlobalConnect 3 (GC3)</name>
+      <coordinates>10.799592,55.32441,0 11.149399,55.32600399999999,0</coordinates>
+    </Placemark>
+    <Placemark>
+      <name>GlobalConnect-KPN</name>
+      <coordinates>11.940053,54.577177,0 11.881927,54.354299,0 12.132468,54.079212,0</coordinates>
+    </Placemark>
+    <Placemark>
+      <name>IP-Only Denmark-Sweden</name>
+      <coordinates>12.414972,55.64754499999999,0 12.467928,55.52374499999999,0 12.916686,55.533588,0</coordinates>
+    </Placemark>
+    <Placemark>
+      <name>Kattegat 1</name>
+      <coordinates>10.516666,57.33102,0 10.887888,57.487639,0 12.076241,57.487639,0</coordinates>
+    </Placemark>
+    <Placemark>
+      <name>Kattegat 2</name>
+      <coordinates>10.514662,57.244938,0 10.967006,57.272635,0</coordinates>
+    </Placemark>
+    <Placemark>
+      <name>Kattegat 2</name>
+      <coordinates>11.199297,57.313757,0 12.290282,56.683338,0 12.68334,56.683338,0</coordinates>
+    </Placemark>
+    <Placemark>
+      <name>Pangea North</name>
+      <coordinates>-1.068116,54.614051,0 8.505485,55.458941,0</coordinates>
+    </Placemark>
+    <Placemark>
+      <name>Pangea Baltic Ring</name>
+      <coordinates>22.297767,59.548079,0 19.119331,59.431632,0 18.062735,59.332277,0 19.119331,59.48662000000001,0 24.440073,59.78936399999999,0 24.932503,60.171209,0 24.752536,59.43636100000001,0 22.297767,59.548079,0</coordinates>
+    </Placemark>
+    <Placemark>
+      <name>Scandinavian Ring North</name>
+      <coordinates>12.640511,56.07068300000001,0 12.695788,56.043915,0 12.67026,56.005515,0 12.613295,56.033344,0 12.640511,56.07068300000001,0</coordinates>
+    </Placemark>
+    <Placemark>
+      <name>Scandinavian Ring South</name>
+      <coordinates>12.67026,55.59375900000001,0 12.816892,55.587666,0 12.918796,55.556825,0 12.795583,55.544834,0 12.67026,55.59375900000001,0</coordinates>
+    </Placemark>
+    <Placemark>
+      <name>Sweden-Estonia (EE-S 1)</name>
+      <coordinates>24.752536,59.43636100000001,0 24.295972,59.570699,0 22.804544,59.237901,0 22.736397,59.00008700000001,0 18.764671,59.822845,0</coordinates>
+    </Placemark>
+    <Placemark>
+      <name>Sweden-Finland 4 (SFS-4)</name>
+      <coordinates>18.701376,59.75973400000001,0 19.781707,59.75973400000001,0 21.178932,59.911301,0 22.259263,60.44939999999999,0</coordinates>
+    </Placemark>
+    <Placemark>
+      <name>Sweden-Finland Link (SFL)</name>
+      <coordinates>19.937728,60.114079,0 18.816678,59.983482,0</coordinates>
+    </Placemark>
+    <Placemark>
+      <name>Russian Optical Trans-Arctic System (ROTACS)</name>
+      <coordinates>35.125968,69.183023,0 35.125968,71.603863,0 21.900911,71.603863,0 10.990636,68.591828,0 1.970755,61.420133,0 -0.290702,54.212086,0</coordinates>
+    </Placemark>
+    <Placemark>
+      <name>Russian Optical Trans-Arctic System (ROTACS)</name>
+      <coordinates>179.999887,73.08837,0 149.313474,75.968476,0 139.051334,76.856707,0 107.681025,77.702759,0 103.846014,78.032061,0 98.704923,77.403865,0 67.007381,77.403865,0 57.162246,76.224407,0 35.125968,69.183023,0</coordinates>
+    </Placemark>
+  </Document>
+</kml>

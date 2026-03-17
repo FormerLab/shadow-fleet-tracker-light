@@ -1,0 +1,17 @@
+# AIS WebSocket stream consumer
+websockets>=14.0
+
+# Map rendering
+folium>=0.19
+branca>=0.8
+jinja2>=3.0
+
+# Distance calculations (cable proximity, loitering)
+geopy>=2.4
+
+# OpenSanctions API calls (optional — sanctions badges in map popups)
+aiohttp>=3.9
+
+# Web dashboard
+fastapi>=0.115
+uvicorn[standard]>=0.34
