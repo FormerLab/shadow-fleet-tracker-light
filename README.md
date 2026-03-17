@@ -26,7 +26,7 @@ Supporters get early access to new tools, development updates, and behind-the-sc
 
 ```bash
 git clone https://github.com/FormerLab/shadow-fleet-tracker-light.git
-cd shadow-fleet-tracker
+cd shadow-fleet-tracker-light
 pip install -r requirements.txt
 export AISSTREAM_API_KEY=your_key_here   # free at aisstream.io
 python shadow_tracker.py &
