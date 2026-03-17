@@ -209,7 +209,7 @@ python check.py
 **1. Clone and install dependencies**
 
 ```bash
-git clone https://github.com/FormerLab/shadow-fleet-tracker.git
+git clone https://github.com/FormerLab/shadow-fleet-tracker-light.git
 cd shadow-fleet-tracker
 pip install -r requirements.txt
 ```
