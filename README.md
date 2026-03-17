@@ -210,7 +210,7 @@ python check.py
 
 ```bash
 git clone https://github.com/FormerLab/shadow-fleet-tracker-light.git
-cd shadow-fleet-tracker
+cd shadow-fleet-tracker-light
 pip install -r requirements.txt
 ```
 
