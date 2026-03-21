@@ -19,7 +19,8 @@ If this tool is useful to you, consider supporting on Patreon. A free tier is av
 **[patreon.com/FormerLab](https://www.patreon.com/FormerLab)**
 
 Supporters get early access to new tools, development updates, and behind-the-scenes posts on how projects like this are built.
-
+Blog post on the tracker, screenshots and more: 
+https://www.patreon.com/posts/153285871
 ---
 
 ## Quick start
