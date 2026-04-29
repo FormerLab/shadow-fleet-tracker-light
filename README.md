@@ -1,4 +1,4 @@
-# shadow-fleet-tracker-light
+# Shadow Fleet Tracker Light
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
